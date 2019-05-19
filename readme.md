@@ -15,3 +15,4 @@
 1. flexbox sizing
 1. grow-shrink-basis
 1. flex-basis and wrapping
+1. mini-project: responsive navigation
