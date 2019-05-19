@@ -1,6 +1,6 @@
 # Flexbox Tutorial
 
-[Link to Net Ninja Youtube playlist](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+[Link to Wes Bos Youtube playlist](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 
 ## Passed Lessons:
 
@@ -14,3 +14,4 @@
 1. align-self
 1. flexbox sizing
 1. grow-shrink-basis
+1. flex-basis and wrapping
