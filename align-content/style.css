@@ -200,27 +200,17 @@ input::-moz-focus-inner {
 /* We start writing out flexbox here. The above is just page setup */
 .container {
   display: flex;
-  border: 10px solid coral;
+  border: 10px solid mistyrose;
   height: 100vh;
-  /* align-items: stretch; */
-  align-items: flex-start;
-  /* align-items: flex-end; */
-  /* align-items: center; */
-  /* align-items: baseline; */
-  flex-direction: column;
-}
-.box1 {
-  font-size: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  /* align-content: flex-end; */
+  /* align-content: space-around; */
+  /* align-content: space-between; */
+  /* align-content: center; */
 }
 
-.box2 {
-  font-size: 40px;
-}
-
-.box3 {
-  font-size: 100px;
-}
-
-.box4 {
-  font-size: 200px;
+.box {
+  width: 33.333%;
 }

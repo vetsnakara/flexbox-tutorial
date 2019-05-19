@@ -9,3 +9,5 @@
 1. flex-wrap
 1. ordering
 1. justify-content
+1. align-items
+1. align-content
