@@ -17,3 +17,4 @@
 1. flex-basis and wrapping
 1. mini-project: responsive navigation
 1. mini-project: mobile content reordering
+1. mini-project: nesting
