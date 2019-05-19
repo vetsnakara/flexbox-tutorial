@@ -19,3 +19,4 @@
 1. mini-project: mobile content reordering
 1. mini-project: nesting
 1. mini-project: pricing grid
+1. mini-project: equal height columns
