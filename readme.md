@@ -4,5 +4,7 @@
 
 ## Passed Lessons:
 
-1. Intro
+1. intro
 1. flex-direction
+1. flex-wrap
+1. ordering
