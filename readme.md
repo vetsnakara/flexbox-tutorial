@@ -8,3 +8,4 @@
 1. flex-direction
 1. flex-wrap
 1. ordering
+1. justify-content
