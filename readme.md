@@ -5,3 +5,4 @@
 ## Passed Lessons:
 
 1. Intro
+1. flex-direction
