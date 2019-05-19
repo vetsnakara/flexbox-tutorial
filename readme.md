@@ -11,3 +11,4 @@
 1. justify-content
 1. align-items
 1. align-content
+1. align-self
