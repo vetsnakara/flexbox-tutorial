@@ -20,4 +20,5 @@
 1. mini-project: nesting
 1. mini-project: pricing grid
 1. mini-project: equal height columns
-1. mini-project: single-line-form
+1. mini-project: single line form
+1. mini-project: mobile app layout
